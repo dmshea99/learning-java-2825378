@@ -5,6 +5,6 @@ public class Main {
         String studentFirstName = "Kayla";
         String studentLastName = "Hammon";
         System.out.println(studentFirstName + ' ' + studentLastName + " has a GPA of " + studentGPA);
-        Sytem.out.println("Made a change in Github!");
+        System.out.println("Made a change in Github!");
     }
 }
